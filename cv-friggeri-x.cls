@@ -219,7 +219,6 @@
 %%%%%%%%%%%%%%%%
 % Bibliography %
 %%%%%%%%%%%%%%%%
-
 \RequirePackage[backend=biber, style=verbose, maxnames=99, sorting=ydnt]{biblatex}
 
 \DeclareFieldFormat[article]{title}{\href{\thefield{url}}{#1}}
