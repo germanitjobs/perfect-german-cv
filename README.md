@@ -2,7 +2,7 @@
 
 This is what the perfect CV to apply in Germany should look like. It's currently written in English making it easier for expats and other foreigners to fill it out.
 
-This is a work in progress, so not everything is adapted to German rules and norms for CVs. If you're unsure, check out our article on [http://www.germanitjobs.com/blog/a-german-cv-some-dos-and-no-we-always-keep-things-positive/](DOs and DON'Ts for a German CV).
+This is a work in progress, so not everything is adapted to German rules and norms for CVs. If you're unsure, check out our article on [DOs and DON'Ts for a German CV](http://www.germanitjobs.com/blog/a-german-cv-some-dos-and-no-we-always-keep-things-positive/).
 
 ![Preview of the perfect German CV](cv.jpg)
 
