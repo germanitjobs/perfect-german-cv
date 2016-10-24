@@ -6,6 +6,9 @@ This is a work in progress so not everything is adapted to German rules and norm
 * [What a good German CV looks like](http://www.germanitjobs.com/blog/what-a-good-german-cv-looks-like/)
 * [DOs and DON'Ts for a German CV](http://www.germanitjobs.com/blog/a-german-cv-some-dos-and-no-we-always-keep-things-positive/)
 
+## Previews
+Check the preview below or [open the PDF](https://github.com/germanitjobs/perfect-german-cv/raw/master/cv.pdf)
+
 ![Preview of the perfect German CV](cv.jpg)
 
 ## Usage
